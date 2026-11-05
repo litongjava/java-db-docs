@@ -192,12 +192,9 @@ dao.template("search", title).find();
 
 ```
 ### 一般用法，第二个参数传入 "like"、"in" 参数即可
-```
+select * from t title like #para(title, "like")
+select * from t title id in #para(idList, "in")
 
-select _ from t title like #para(title, "like")
-select _ from t title id in #para(idList, "in")
-
-```
 ### like 类型第一个参数支持 int 类型
 select * from t title like #para(0, "like")
 
