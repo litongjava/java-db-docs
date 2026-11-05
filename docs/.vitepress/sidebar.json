@@ -1,0 +1,163 @@
+[
+  {
+    "text": "java-db",
+    "items": [
+      {
+        "text": "概览",
+        "link": "/"
+      },
+      {
+        "text": "Db 工具类",
+        "link": "/00"
+      },
+      {
+        "text": "java‑db",
+        "link": "/01"
+      },
+      {
+        "text": "操作数据库入门示例",
+        "link": "/02"
+      },
+      {
+        "text": "SQL 模板 (SqlTemplates)",
+        "link": "/03_SQL%20Template"
+      },
+      {
+        "text": "数据源配置与使用",
+        "link": "/04_%E6%95%B0%E6%8D%AE%E6%BA%90%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8"
+      },
+      {
+        "text": "ActiveRecord",
+        "link": "/05_ActiveRecordPlugin"
+      },
+      {
+        "text": "Db 工具类",
+        "link": "/06_db%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%9F%BA%E7%A1%80"
+      },
+      {
+        "text": "批量操作",
+        "link": "/07_db%E5%B7%A5%E5%85%B7%E7%B1%BB%E9%AB%98%E7%BA%A7"
+      },
+      {
+        "text": "Model",
+        "link": "/08_Model"
+      },
+      {
+        "text": "Model生成器",
+        "link": "/09_%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%20JavaBean"
+      },
+      {
+        "text": "注解",
+        "link": "/10"
+      },
+      {
+        "text": "异常处理",
+        "link": "/11_%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86"
+      },
+      {
+        "text": "数据库事务处理",
+        "link": "/12_%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%8B%E5%8A%A1%E5%A4%84%E7%90%86"
+      },
+      {
+        "text": "Cache 缓存",
+        "link": "/13_Cache%20%E7%BC%93%E5%AD%98"
+      },
+      {
+        "text": "Dialect 多数据库支持",
+        "link": "/14_Dialect%E5%A4%9A%E6%95%B0%E6%8D%AE%E5%BA%93%E6%94%AF%E6%8C%81"
+      },
+      {
+        "text": "表关联操作",
+        "link": "/15_%E8%A1%A8%E5%85%B3%E8%81%94%E6%93%8D%E4%BD%9C"
+      },
+      {
+        "text": "复合主键",
+        "link": "/16_%E5%A4%8D%E5%90%88%E4%B8%BB%E9%94%AE"
+      },
+      {
+        "text": "Oracle 支持",
+        "link": "/17_Oracle%E6%94%AF%E6%8C%81"
+      },
+      {
+        "text": "Enjoy SQL 模板",
+        "link": "/18_Enjoy%20SQL%20%E6%A8%A1%E6%9D%BF"
+      },
+      {
+        "text": "整合 Enjoy 模板最佳实践",
+        "link": "/19_%E6%95%B4%E5%90%88%20Enjoy%20%E6%A8%A1%E6%9D%BF%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5"
+      },
+      {
+        "text": "多数据源支持",
+        "link": "/20_%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E6%94%AF%E6%8C%81"
+      },
+      {
+        "text": "独立使用 ActiveRecord",
+        "link": "/21_%E7%8B%AC%E7%AB%8B%E4%BD%BF%E7%94%A8%20ActiveRecord"
+      },
+      {
+        "text": "调用存储过程",
+        "link": "/22_%E8%B0%83%E7%94%A8%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B"
+      },
+      {
+        "text": "java-db 整合 Guava 的 Striped 锁优化",
+        "link": "/23"
+      },
+      {
+        "text": "生成 SQL",
+        "link": "/24"
+      },
+      {
+        "text": "通过实体类操作数据库",
+        "link": "/25"
+      },
+      {
+        "text": "java-db 读写分离",
+        "link": "/26"
+      },
+      {
+        "text": "Spring Boot 整合 Java-DB",
+        "link": "/27"
+      },
+      {
+        "text": "like 查询",
+        "link": "/28"
+      },
+      {
+        "text": "常用操作示例",
+        "link": "/29"
+      },
+      {
+        "text": "Druid 监控集成指南",
+        "link": "/30"
+      },
+      {
+        "text": "SQL 统计",
+        "link": "/31"
+      },
+      {
+        "text": "Db 与 PostgreSQL 业务实践",
+        "link": "/32"
+      },
+      {
+        "text": "查询资源自动管理",
+        "link": "/query-resources"
+      },
+      {
+        "text": "Row 展示转换与表格导出",
+        "link": "/row-presentation"
+      },
+      {
+        "text": "支付回执与权益事务",
+        "link": "/33_%E6%94%AF%E4%BB%98%E5%9B%9E%E6%89%A7%E4%B8%8E%E6%9D%83%E7%9B%8A%E4%BA%8B%E5%8A%A1"
+      },
+      {
+        "text": "商业库存与按量履约事务",
+        "link": "/34_%E5%95%86%E4%B8%9A%E5%BA%93%E5%AD%98%E4%B8%8E%E6%8C%89%E9%87%8F%E5%B1%A5%E7%BA%A6%E4%BA%8B%E5%8A%A1"
+      },
+      {
+        "text": "会员周期与独立增量池",
+        "link": "/35_%E4%BC%9A%E5%91%98%E5%91%A8%E6%9C%9F%E4%B8%8E%E7%8B%AC%E7%AB%8B%E5%A2%9E%E9%87%8F%E6%B1%A0"
+      }
+    ]
+  }
+]
